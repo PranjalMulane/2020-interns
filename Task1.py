@@ -59,20 +59,3 @@ plt.show()
 
 
 
-
-'''
-import pandas as pd
-import json
-data = json.load(open('data.json'))
-
-
-data=rates.sort_values()
-df = pd.read_json('data.json')
-df.head()
-#print(data)
-
-print(type(data))
-
-
-
-'''
